@@ -40,7 +40,7 @@ My name is Vincent Nikolayev. I am a passionate Software Engineer and have a Com
 
 My interests include Systems Programming, Graphics Programming, and Generative Art. I have professional experience in Full-Stack, iOS, and Web3 development, as well as Data Analysis and Visualization. But I'm open minded to learning new things.
 
-My non CompSci hobbies are reading, watching film, and painting.
+My non CompSci hobbies are reading, watching film, and photographing.
 
 If you wish to get in touch you can reach me at \`\`\`<first name>.<last name> at gmail dot com\`\`\` (where the placeholders inside of <> get replaced with their proper values) or by selecting the mail icon adjacent to my name at the top of the page.
 
